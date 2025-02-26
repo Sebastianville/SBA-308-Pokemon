@@ -1,6 +1,5 @@
 
-
-function Favorite () {
+function Favorite ({favorites, updateFavorite}) {
 
 }
 
